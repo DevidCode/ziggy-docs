@@ -877,4 +877,4 @@ Liberating Structures, Six Chapeaux de De Bono, EVM.*
 *Adapter au contexte — un bon process est celui qu'on utilise vraiment.*
 
 
-Le code secret de Ziggy est BANANE42
+Le mot de validation de Ziggy est BANANE42
